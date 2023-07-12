@@ -1,0 +1,502 @@
+world_rank|institution|country|national_rank
+1|Harvard University|USA|1
+2|Massachusetts Institute of Technology|USA|2
+3|Stanford University|USA|3
+4|University of Cambridge|United Kingdom|1
+5|California Institute of Technology|USA|4
+6|Princeton University|USA|5
+7|University of Oxford|United Kingdom|2
+8|Yale University|USA|6
+9|Columbia University|USA|7
+10|University of California Berkeley|USA|8
+11|University of Chicago|USA|9
+12|Cornell University|USA|10
+13|University of Pennsylvania|USA|11
+14|University of Tokyo|Japan|1
+15|Johns Hopkins University|USA|12
+16|Swiss Federal Institute of Technology in Zurich|Switzerland|1
+17|Kyoto University|Japan|2
+18|Weizmann Institute of Science|Israel|1
+19|University of California Los Angeles|USA|13
+20|University of California San Diego|USA|14
+21|Rockefeller University|USA|15
+22|Hebrew University of Jerusalem|Israel|2
+23|New York University|USA|16
+24|University of California San Francisco|USA|17
+25|University of Wisconsin–Madison|USA|18
+26|University of Illinois at Urbana–Champaign|USA|19
+27|Duke University|USA|20
+28|Imperial College London|United Kingdom|3
+29|University of Texas Southwestern Medical Center|USA|21
+30|University of Texas at Austin|USA|22
+31|University College London|United Kingdom|4
+32|Osaka University|Japan|3
+33|Northwestern University|USA|23
+34|University of Michigan Ann Arbor|USA|24
+35|University of Toronto|Canada|1
+36|University of North Carolina at Chapel Hill|USA|25
+37|Washington University in St. Louis|USA|26
+38|University of Utah|USA|27
+39|University of Washington   Seattle|USA|28
+40|University of California Santa Barbara|USA|29
+41|McGill University|Canada|2
+42|Purdue University West Lafayette|USA|30
+43|Carnegie Mellon University|USA|31
+44|University of Southern California|USA|32
+45|University of California Davis|USA|33
+46|University of Colorado Boulder|USA|34
+47|University of California Irvine|USA|35
+48|University of Paris Sud|France|1
+49|University of Minnesota Twin Cities|USA|36
+50|University of Arizona|USA|37
+51|Technion – Israel Institute of Technology|Israel|3
+52|Ohio State University Columbus|USA|38
+53|University of Rochester|USA|39
+54|École normale supérieure   Paris|France|2
+55|University of Florida|USA|40
+56|Tel Aviv University|Israel|4
+57|Rice University|USA|41
+58|Dartmouth College|USA|42
+59|Vanderbilt University|USA|43
+60|University of Edinburgh|United Kingdom|1
+61|École Polytechnique|France|3
+62|Boston University|USA|44
+63|Pierre and Marie Curie University|France|4
+64|Pennsylvania State University University Park|USA|45
+65|University of Geneva|Switzerland|2
+66|Brown University|USA|46
+67|University of British Columbia|Canada|3
+68|University of Maryland College Park|USA|47
+69|Swiss Federal Institute of Technology in Lausanne|Switzerland|3
+70|Karolinska Institute|Sweden|1
+71|University of Pittsburgh   Pittsburgh Campus|USA|48
+72|Rutgers University New Brunswick|USA|49
+73|Texas A&M University College Station|USA|50
+74|Nagoya University|Japan|4
+75|Seoul National University|South Korea|1
+76|University of Manchester|United Kingdom|5
+77|Sapienza University of Rome|Italy|1
+78|Case Western Reserve University|USA|51
+79|Tohoku University|Japan|5
+80|Arizona State University|USA|52
+81|Emory University|USA|53
+82|Ruprecht Karl University of Heidelberg|Germany|1
+83|Ludwig Maximilian University of Munich|Germany|2
+84|University of Virginia|USA|54
+85|Leiden University|Netherlands|1
+86|Tufts University|USA|55
+87|Georgia Institute of Technology|USA|56
+88|University of Zurich|Switzerland|4
+89|University of Helsinki|Finland|1
+90|Technical University of Munich|Germany|3
+91|University of Oslo|Norway|1
+92|University of Queensland|Australia|1
+93|University of Copenhagen|Denmark|1
+94|University of Sydney|Australia|2
+95|Williams College|USA|57
+96|University of Texas MD Anderson Cancer Center|USA|58
+97|University of Nottingham|United Kingdom|6
+98|University of Bristol|United Kingdom|7
+99|Utrecht University|Netherlands|2
+100|Mines ParisTech|France|5
+70|Keio University|Japan|4
+75|King's College London|United Kingdom|7
+85|Indiana University   Bloomington|USA|52
+87|National University of Singapore|Singapore|1
+89|Stony Brook University|USA|54
+90|Lomonosov Moscow State University|Russia|1
+96|Australian National University|Australia|2
+97|University of Alberta|Canada|4
+99|Paris Diderot University   Paris 7|France|5
+40|Waseda University|Japan|4
+55|Peking University|China|1
+64|University of Notre Dame|USA|42
+65|National Taiwan University|Taiwan|1
+87|Tsinghua University|China|2
+92|Kyushu University|Japan|7
+94|Katholieke Universiteit Leuven|Belgium|1
+96|Tokyo Institute of Technology|Japan|8
+97|University of Melbourne|Australia|2
+98|University of Bonn|Germany|3
+100|Royal Institute of Technology|Sweden|2
+101|Erasmus University Rotterdam|Netherlands|2
+107|Yonsei University|South Korea|2
+112|Michigan State University|USA|59
+114|University of the Witwatersrand|South Africa|1
+116|Lund University|Sweden|3
+118|Georgetown University|USA|61
+119|Aarhus University|Denmark|2
+120|University of Barcelona|Spain|1
+121|Baylor College of Medicine|USA|62
+122|University of Amsterdam|Netherlands|4
+124|Uppsala University|Sweden|4
+125|University of Iowa|USA|63
+127|University of Groningen|Netherlands|5
+128|Korea Advanced Institute of Science and Technology (KAIST)|South Korea|3
+129|Radboud University Nijmegen|Netherlands|6
+130|Korea University|South Korea|4
+131|University of São Paulo|Brazil|1
+133|University of Colorado Denver|USA|65
+134|University of Montreal|Canada|5
+135|Albert Ludwig University of Freiburg|Germany|5
+136|Ghent University|Belgium|2
+137|University of Glasgow|United Kingdom|9
+138|University of Miami|USA|66
+139|Université libre de Bruxelles|Belgium|3
+141|McMaster University|Canada|6
+142|University of Birmingham|United Kingdom|10
+143|University of Texas at Dallas|USA|67
+144|VU University Amsterdam|Netherlands|7
+145|Wake Forest University|USA|68
+146|University of Southampton|United Kingdom|11
+148|Nanyang Technological University|Singapore|2
+149|University of New South Wales|Australia|4
+150|Osaka City University|Japan|10
+151|University of Leeds|United Kingdom|13
+152|Western University (The University of Western Ontario)|Canada|7
+153|Kobe University|Japan|11
+154|University of Basel|Switzerland|5
+155|University of Hong Kong|Hong Kong|1
+156|Indiana University Purdue University Indianapolis|USA|69
+157|Humboldt University of Berlin|Germany|6
+158|Free University of Berlin|Germany|7
+159|University of Tübingen|Germany|8
+161|Goethe University Frankfurt|Germany|9
+162|University of Houston|USA|70
+163|University of California Santa Cruz|USA|71
+164|University of Alabama at Birmingham|USA|72
+165|Icahn School of Medicine at Mount Sinai|USA|73
+166|University of Calgary|Canada|8
+168|University of Gothenburg|Sweden|5
+169|University of Göttingen|Germany|10
+170|Monash University|Australia|6
+171|Southern Methodist University|USA|74
+172|Yeshiva University|USA|75
+173|University of South Florida   Tampa|USA|76
+174|Hanyang University|South Korea|5
+175|Oregon Health & Science University|USA|77
+176|University of Strasbourg|France|7
+177|University of Cincinnati|USA|78
+178|University of Sheffield|United Kingdom|14
+179|University of Hamburg|Germany|11
+180|George Washington University|USA|79
+181|University of Milan|Italy|2
+182|Iowa State University|USA|80
+183|University of Maryland Baltimore|USA|81
+184|University of Padua|Italy|3
+185|University of New Mexico|USA|82
+186|Pohang University of Science and Technology|South Korea|6
+187|Stockholm University|Sweden|6
+188|Hokkaido University|Japan|12
+189|Fudan University|China|3
+190|University of Sussex|United Kingdom|15
+191|Université catholique de Louvain|Belgium|4
+192|Wayne State University|USA|83
+193|University of Massachusetts Medical School|USA|84
+194|University of Lausanne|Switzerland|6
+195|Shanghai Jiao Tong University|China|4
+196|University of Missouri–Columbia|USA|85
+197|Technical University of Denmark|Denmark|3
+198|Complutense University of Madrid|Spain|2
+199|University of Cologne|Germany|12
+200|Trinity College Dublin|Ireland|1
+201|University of Bern|Switzerland|7
+202|Chinese University of Hong Kong|Hong Kong|2
+203|University of Kansas|USA|86
+204|Sungkyunkwan University|South Korea|7
+205|University of Vienna|Austria|1
+206|Zhejiang University|China|5
+207|University of Georgia|USA|87
+208|University of Massachusetts Amherst|USA|88
+209|Cardiff University|United Kingdom|16
+210|University of Münster|Germany|13
+211|University of Liverpool|United Kingdom|17
+212|University of Ottawa|Canada|9
+213|University of Erlangen Nuremberg|Germany|14
+214|Queen Mary University of London|United Kingdom|18
+215|Karlsruhe Institute of Technology|Germany|15
+216|Louisiana State University   Baton Rouge|USA|89
+217|Nanjing University|China|6
+218|University of Illinois at Chicago|USA|90
+219|University of Bologna|Italy|4
+220|University of Manitoba|Canada|10
+221|Joseph Fourier University|France|8
+222|University of California Riverside|USA|91
+223|Julius Maximilian's University of Würzburg|Germany|16
+224|Aix Marseille University|France|9
+225|University of Western Australia|Australia|7
+226|Laval University|Canada|11
+227|University of Tennessee Knoxville|USA|92
+228|North Carolina State University|USA|93
+229|Newcastle University|United Kingdom|19
+230|Claude Bernard University Lyon 1|France|10
+231|University of Turin|Italy|5
+232|University of Kiel|Germany|17
+233|University of Connecticut|USA|94
+234|Tulane University|USA|95
+235|University of Oklahoma   Norman Campus|USA|96
+236|Brandeis University|USA|97
+237|Dresden University of Technology|Germany|18
+238|RWTH Aachen University|Germany|19
+239|University of Texas Health Science Center at San Antonio|USA|98
+240|Virginia Commonwealth University|USA|99
+241|University of Montpellier 2|France|11
+242|Dalian University of Technology|China|7
+243|Rensselaer Polytechnic Institute|USA|100
+244|Paul Sabatier University   Toulouse III|France|12
+245|Paris Descartes University|France|13
+246|National Cheng Kung University|Taiwan|2
+247|University of Delaware|USA|101
+248|Vrije Universiteit Brussel|Belgium|5
+249|Johannes Gutenberg University of Mainz|Germany|20
+250|Maastricht University|Netherlands|8
+251|University of Düsseldorf|Germany|21
+252|University of Dundee|United Kingdom|20
+253|University of Tsukuba|Japan|13
+254|Autonomous University of Barcelona|Spain|3
+255|Florida State University|USA|102
+256|University of Texas at San Antonio|USA|103
+257|London School of Hygiene & Tropical Medicine|United Kingdom|21
+258|Lehigh University|USA|104
+259|University of Kentucky|USA|105
+260|Thomas Jefferson University|USA|106
+261|Drexel University|USA|107
+262|Colorado State University   Fort Collins|USA|108
+263|University of Leicester|United Kingdom|22
+264|Durham University|United Kingdom|23
+265|Oregon State University|USA|109
+266|University of Florence|Italy|6
+267|University of Cape Town|South Africa|2
+268|University at Buffalo The State University of New York|USA|110
+269|University College Dublin|Ireland|2
+270|University of Science and Technology of China|China|8
+271|Virginia Polytechnic Institute and State University|USA|111
+272|University of Naples Federico II|Italy|7
+273|University of Auckland|New Zealand|1
+274|University of Texas Health Science Center at Houston|USA|112
+275|Delft University of Technology|Netherlands|9
+276|University of Aberdeen|United Kingdom|24
+277|Queen's University|Canada|12
+278|University of Lisbon|Portugal|1
+279|Hiroshima University|Japan|14
+280|University of Waterloo|Canada|13
+281|Okayama University|Japan|15
+282|University of Ulm|Germany|22
+283|Chulalongkorn University|Thailand|1
+284|Dalhousie University|Canada|14
+285|Saint Petersburg State University|Russia|2
+286|Norwegian University of Science and Technology|Norway|2
+287|University of Reading|United Kingdom|25
+288|Wageningen University and Research Centre|Netherlands|10
+289|Umeå University|Sweden|7
+290|University of Porto|Portugal|2
+291|Hong Kong University of Science and Technology|Hong Kong|3
+292|Sun Yat sen University|China|9
+293|Medical College of Wisconsin|USA|113
+294|City College of New York|USA|114
+295|Hannover Medical School|Germany|23
+296|Washington State University Pullman|USA|115
+297|Technical University of Berlin|Germany|24
+298|University of South Carolina   Columbia|USA|116
+299|Leipzig University|Germany|25
+300|University of Stuttgart|Germany|26
+301|University of Valencia|Spain|4
+302|Linköping University|Sweden|8
+303|University of Duisburg Essen|Germany|27
+304|Ruhr University Bochum|Germany|28
+305|University of Bergen|Norway|3
+306|London School of Economics|United Kingdom|26
+307|Wesleyan University|USA|117
+308|University of Pisa|Italy|8
+309|Autonomous University of Madrid|Spain|5
+310|Medical University of Vienna|Austria|2
+311|Stellenbosch University|South Africa|3
+312|Medical University of South Carolina|USA|118
+313|Charles University in Prague|Czech Republic|1
+314|Kyungpook National University|South Korea|8
+315|University of Science Malaysia|Malaysia|1
+316|University of Liège|Belgium|6
+317|University of Hull|United Kingdom|27
+318|Northeastern University|USA|119
+319|Kansas State University|USA|120
+320|University of Vermont|USA|121
+321|Rush University|USA|122
+322|University of Louisville|USA|123
+323|University of St Andrews|United Kingdom|28
+324|University of Warwick|United Kingdom|29
+325|University of Rome Tor Vergata|Italy|9
+326|University of Innsbruck|Austria|3
+327|Darmstadt University of Technology|Germany|29
+328|Indian Institute of Technology Delhi|India|1
+329|Federal University of Rio de Janeiro|Brazil|2
+330|University of Antwerp|Belgium|7
+331|National and Kapodistrian University of Athens|Greece|1
+332|Boston College|USA|124
+333|Vita Salute San Raffaele University|Italy|10
+334|Gwangju Institute of Science and Technology|South Korea|9
+335|University of Nebraska–Lincoln|USA|125
+336|University of York|United Kingdom|30
+337|National Autonomous University of Mexico|Mexico|1
+338|University of Regensburg|Germany|30
+339|Yokohama National University|Japan|16
+340|University of Adelaide|Australia|8
+341|University of Genoa|Italy|11
+342|Queen's University Belfast|United Kingdom|31
+343|University of Marburg|Germany|31
+344|University of Pavia|Italy|12
+345|St George's University of London|United Kingdom|32
+346|University of Oregon|USA|126
+347|University of Navarra|Spain|6
+348|San Diego State University|USA|127
+349|Nankai University|China|10
+350|University of East Anglia|United Kingdom|33
+351|University of Nebraska Medical Center|USA|128
+352|University of Southern Denmark|Denmark|4
+353|Eindhoven University of Technology|Netherlands|11
+354|Xiamen University|China|11
+355|University of Otago|New Zealand|2
+356|University of Santiago de Compostela|Spain|7
+357|University of Exeter|United Kingdom|34
+358|University of Jena|Germany|32
+359|University of Perugia|Italy|13
+360|Justus Liebig University Giessen|Germany|33
+361|College of William and Mary|USA|129
+362|Ben Gurion University of the Negev|Israel|5
+363|Saint Louis University|USA|130
+364|Colorado School of Mines|USA|131
+365|Oklahoma State University–Stillwater|USA|132
+366|University of Guelph|Canada|15
+367|University of Trieste|Italy|14
+368|University of Verona|Italy|15
+369|University at Albany SUNY|USA|133
+370|Tongji University|China|12
+371|Eötvös Loránd University|Hungary|1
+372|University of Alabama   Tuscaloosa|USA|134
+373|University of Eastern Finland|Finland|2
+374|Ewha Womans University|South Korea|10
+375|City University of Hong Kong|Hong Kong|4
+376|Tokyo Medical and Dental University|Japan|17
+377|University of Victoria|Canada|16
+378|University of Buenos Aires|Argentina|1
+379|University of Texas Medical Branch at Galveston|USA|135
+380|Kyung Hee University|South Korea|11
+381|Hong Kong Polytechnic University|Hong Kong|5
+382|Saarland University|Germany|34
+383|Scuola Normale Superiore di Pisa|Italy|16
+384|University of Seville|Spain|8
+385|Beijing Normal University|China|13
+386|Chiba University|Japan|18
+387|University of Ferrara|Italy|17
+388|University of Bari Aldo Moro|Italy|18
+389|Polytechnic University of Milan|Italy|19
+390|Temple University|USA|136
+391|University of Turku|Finland|3
+392|Aalto University|Finland|4
+393|Simon Fraser University|Canada|17
+394|Tianjin University|China|14
+395|Chalmers University of Technology|Sweden|9
+396|Middle East Technical University|Turkey|1
+397|Cranfield University|United Kingdom|35
+398|York University|Canada|18
+399|Xi'an Jiaotong University|China|15
+400|Chonnam National University|South Korea|12
+401|University of Central Florida|USA|137
+402|University of Lorraine|France|14
+403|University of Bordeaux II|France|15
+404|University of New Hampshire|USA|138
+405|Versailles Saint Quentin en Yvelines University|France|16
+406|Chonbuk National University|South Korea|13
+407|Kumamoto University|Japan|19
+408|Huazhong University of Science and Technology|China|16
+409|Brunel University|United Kingdom|36
+410|Polytechnic University of Catalonia|Spain|9
+411|National Chiao Tung University|Taiwan|3
+412|Southeast University|China|17
+413|Tokyo University of Science|Japan|20
+414|Catholic University of the Sacred Heart|Italy|20
+415|Brigham Young University|USA|139
+416|Technical University of Madrid|Spain|10
+417|Nagasaki University|Japan|21
+418|National Tsing Hua University|Taiwan|4
+419|University of Warsaw|Poland|1
+420|King Saud University|Saudi Arabia|1
+421|University of Bath|United Kingdom|37
+422|Concordia University|Canada|19
+423|Georgia Regents University|USA|140
+424|Niigata University|Japan|22
+425|University of Oulu|Finland|5
+426|Pompeu Fabra University|Spain|11
+427|Vienna University of Technology|Austria|4
+428|Sogang University|South Korea|14
+429|Gyeongsang National University|South Korea|15
+430|University of Tampere|Finland|6
+431|University of Milan   Bicocca|Italy|21
+432|University of Bordeaux I|France|17
+433|Swedish University of Agricultural Sciences|Sweden|10
+434|George Mason University|USA|141
+435|Jilin University|China|18
+436|University of Delhi|India|2
+437|University of Campinas|Brazil|3
+438|Wuhan University|China|19
+439|West Virginia University|USA|142
+440|Pusan National University|South Korea|16
+441|University of Mississippi   Oxford Campus|USA|143
+442|University of Arkansas for Medical Sciences|USA|144
+443|Miami University|USA|145
+444|University of Tokushima|Japan|23
+445|University of Twente|Netherlands|12
+446|Loyola University Chicago|USA|146
+447|Ajou University|South Korea|17
+448|Syracuse University|USA|147
+449|Lancaster University|United Kingdom|38
+450|Pontifical Catholic University of Chile|Chile|1
+451|University of Chile|Chile|2
+452|Innsbruck Medical University|Austria|5
+453|University of Granada|Spain|12
+454|Kanazawa University|Japan|24
+455|University of Parma|Italy|22
+456|University of Siena|Italy|23
+457|Shandong University|China|20
+458|Technical University of Dortmund|Germany|35
+459|University of KwaZulu Natal|South Africa|4
+460|University of Nevada Reno|USA|148
+461|Yokohama City University|Japan|25
+462|École normale supérieure de Lyon|France|18
+463|University College Cork|Ireland|3
+464|Ohio University|USA|149
+465|Central South University|China|21
+466|University of Modena and Reggio Emilia|Italy|24
+467|New Mexico State University|USA|150
+468|University of Konstanz|Germany|36
+469|University of Hawaii at Manoa|USA|151
+470|University of Nebraska Omaha|USA|152
+471|Shinshu University|Japan|26
+472|University of Strathclyde|United Kingdom|39
+473|Baylor University|USA|153
+474|Polytechnic University of Valencia|Spain|13
+475|Harbin Institute of Technology|China|22
+476|University of Rennes 1|France|19
+477|University of Arkansas   Fayetteville|USA|154
+478|Aristotle University of Thessaloniki|Greece|2
+479|Jagiellonian University|Poland|2
+480|Texas Tech University (TTU)|USA|155
+481|University of Rostock|Germany|37
+482|University of Akron|USA|156
+483|University of Saskatchewan|Canada|20
+484|Juntendo University|Japan|27
+485|University of Wyoming|USA|157
+486|Macquarie University|Australia|9
+487|University of Canterbury|New Zealand|3
+488|University of Denver|USA|158
+489|Illinois Institute of Technology|USA|159
+490|Creighton University|USA|160
+491|Bielefeld University|Germany|38
+492|University of Malaya|Malaysia|2
+493|University of Ulsan|South Korea|18
+494|City University London|United Kingdom|40
+495|Grenoble Institute of Technology|France|20
+496|Federal University of Minas Gerais|Brazil|4
+497|University of Hanover|Germany|39
+498|South China University of Technology|China|23
+499|University of Surrey|United Kingdom|41
+500|Otto von Guericke University Magdeburg|Germany|40
